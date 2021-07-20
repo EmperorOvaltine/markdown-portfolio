@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Favourite things:
+1. Fun
+2. Coding
+3. QI Youtube Videos
